@@ -1,7 +1,37 @@
-Hello, <br>
-I am BTech Grad. <br>
-Here I am building a basic model of social Networking Webpage. <br>
-I am using : Html,Css,Javascript,React,Nodejs and for database MongoDb. <br>
-Hello wordld <br>
+# Social Networking Webpage
 
-# Author - Anush Dighore <br>
+A full-stack social networking web application where users can create accounts, post content, view other users' profiles, and interact in a modern social feed — built with React, Node.js, Express, and MongoDB.
+
+---
+
+## 🌐 Features
+
+- User authentication (Sign up / Login)
+- Profile creation and editing
+- Create, view, edit, and delete posts
+- Like, comment, and engage with posts
+- Responsive UI built with React
+- RESTful API for frontend-backend communication
+- MongoDB database for storing users, posts, and interactions
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology         |
+|-------------|--------------------|
+| Frontend     | ReactJS, CSS       |
+| Backend      | Node.js, Express   |
+| Database     | MongoDB            |
+| API Protocol | RESTful APIs       |
+| Versioning   | Git & GitHub       |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/anushdighore/Social-Networking-Webpage.git
+cd Social-Networking-Webpage
